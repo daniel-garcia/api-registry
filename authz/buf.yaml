@@ -1,9 +1,0 @@
-version: v1
-breaking:
-  use:
-    - FILE
-lint:
-  use:
-    - DEFAULT
-deps:
-- daniel-garcia/registry-api/identity

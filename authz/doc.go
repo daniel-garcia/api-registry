@@ -1,4 +1,0 @@
-package authz
-
-func init() {
-}
