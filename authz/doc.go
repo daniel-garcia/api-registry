@@ -1,0 +1,4 @@
+package authz
+
+func init() {
+}
